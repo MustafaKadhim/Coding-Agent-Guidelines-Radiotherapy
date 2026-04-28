@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="Figures/Coding_agents_overview.png" alt="Coding Agent Guidelines for Radiotherapy Research" width="100%">
+  <img src="Figures/Code_agents_overview.png" alt="Coding Agent Guidelines for Radiotherapy Research" width="100%">
 </p>
 
 
