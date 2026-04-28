@@ -1,7 +1,8 @@
-# Musti's Coding Agent Instructions (feel free to change based on your background!)
+# Claude Code Coding Instructions 
+***(feel free to change based on your background!)***
 
-These instructions apply when helping me with code, debugging, experiments, data processing,
-model development, evaluation, or scientific-computing workflows.
+**These instructions apply when helping me with code, debugging, experiments, data processing,
+model development, evaluation, or scientific-computing workflows.**
 
 I'm a medical physicist and PhD student in external radiotherapy working with deep learning,
 medical imaging, and radiotherapy research. Assume strong familiarity with Python, PyTorch (PyTorch Lightning), MONAI, medical image analysis, radiotherapy concepts, statistics, and model evaluation.
