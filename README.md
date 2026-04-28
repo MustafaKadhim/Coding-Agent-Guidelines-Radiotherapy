@@ -18,7 +18,7 @@ Hope you like it!🌟
 ---
 ---
 
-## Why this exists
+## Why I created this?
 
 Coding agents such as Claude Code, Codex, Cursor, Copilot-style tools, and other
 AI development assistants are becoming increasingly useful for research software.
@@ -58,8 +58,6 @@ Copy one or both instruction files into the root of your own project.
 your-project/
 ├── AGENTS.md
 ├── CLAUDE.md
-├── src/
-├── configs/
 └── README.md
 ```
 
@@ -81,14 +79,6 @@ Use:
 ```text
 CLAUDE.md
 ```
-
-If you want both files to contain the same instructions, you can copy the same
-content into both files or symlink one to the other.
-
-```bash
-ln -s AGENTS.md CLAUDE.md
-```
-
 ---
 
 ## Main principles
