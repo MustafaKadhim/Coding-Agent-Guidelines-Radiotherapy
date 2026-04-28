@@ -6,6 +6,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-workflows-EE4C2C)
 
 
+<p align="center">
+  <img src="Figures/banner.png" alt="Coding Agent Guidelines for Radiotherapy Research" width="100%">
+</p>
+
+
 # Coding-Agents-Skills-for-Radiotherapy-Research
 These are my personal coding guidelines optimized for radiotherapy research and inspired by Andrej Karpathy's work on Claude Code skills. 
 I provided reusable `AGENTS.md (for Codex)` and `CLAUDE.md (for Claude Code)` guidelines designed to help you code using radiothreapy expert agents. These guidelines will enable safer, smaller, and more scientifically reliable agents when working with research code involving DICOM, NIfTI, CT, CBCT, MRI, dose grids, segmentation masks, PyTorch, MONAI, and model evaluation.
