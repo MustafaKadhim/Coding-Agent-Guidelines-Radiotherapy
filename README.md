@@ -7,7 +7,7 @@
 
 
 # Coding-Agents-Skills-for-Radiotherapy-Research
-This is my personal coding guidelines optimized for radiotherapy research and inspired by Andrej Karpathy's work on Claude Code skills. 
+These are my personal coding guidelines optimized for radiotherapy research and inspired by Andrej Karpathy's work on Claude Code skills. 
 I provided reusable `AGENTS.md (for Codex)` and `CLAUDE.md (for Claude Code)` guidelines designed to help you code using radiothreapy expert agents. These guidelines will enable safer, smaller, and more scientifically reliable agents when working with research code involving DICOM, NIfTI, CT, CBCT, MRI, dose grids, segmentation masks, PyTorch, MONAI, and model evaluation.
 
 > If you find this is useful for your research, consider starring or forking
